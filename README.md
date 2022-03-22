@@ -1,12 +1,12 @@
-This is my soloutin for the test
+<p>This is my soloutin for the test
 I used spatie package to make roles and permitssions
 
 
-For Setup you need to :
-        1 - Create a database with name "crm"  or you can change the env file  (i upload it because it is just local testing)
-        2 - run this command: php artisan migrate:fresh --seed --seeder=demo_seeder
+For Setup you need to :<br>
+        1 - Create a database with name "crm"  or you can change the env file  (i upload it because it is just local testing)<br>
+        2 - run this command: php artisan migrate:fresh --seed --seeder=demo_seeder<br>
 
-
+</p>
 
 
 
